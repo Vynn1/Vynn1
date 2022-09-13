@@ -1,5 +1,5 @@
-#tools By XinZz. 
-#No Rename Bangst
+#tools By Vyn. 
+#Jangan dijual Bangst
 import random
 import socket
 import threading
@@ -42,7 +42,7 @@ print("""
 \033[0;32m             \___/         
 """)
 
-password ="boyz"
+password ="vyn"
 
 for i in range(4):
 	pwd = input("[•] Password : ")
@@ -70,9 +70,9 @@ print("""/033[95m
 ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝
   """)
   
-print("\033[95m>> CODED : XinZz. ") 
-print("\033[95m>>> Coded campuran by : XinTod22") 
-print("\033[95m>>>> TOOLS PRIVATE XINZZ")
+print("\033[95m>> CODED : Vyn. ") 
+print("\033[95m>>> Coded campuran by : Vyn") 
+print("\033[95m>>>> TOOLS PRIVATE Vyn")
 print("\033[91m                                       METODE: UDP-TCP-GET-OVH              ")
 ip = str(input("  \033[0;31mIP:"))
 port = int(input(" \033[0;32mPort:"))
